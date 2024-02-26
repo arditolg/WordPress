@@ -1,0 +1,1 @@
+[23-Feb-2024 11:43:51 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in C:\Users\DevOps\Local Sites\alteracao-tema\app\public\wp-includes\Requests\src\Transport\Curl.php on line 510
